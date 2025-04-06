@@ -3,6 +3,11 @@
 ## 🚀 Project Overview
 This project aims to develop predictive models 🧠 to accurately determine the resale value of used cars based on various attributes. Leveraging advanced machine learning techniques, the project assists both sellers in setting competitive prices 💲 and buyers in making informed decisions 🧐.
 
+## 🎥 Project Presentation
+
+Check out the detailed project presentation here:
+[View Project Presentation on Canva](https://www.canva.com/design/DAGXIGBHKCI/SNAwOxmoY6D9B0jlcIl8BA/view?utm_content=DAGXIGBHKCI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he809e0e73b)
+
 ## 📊 Data Description
 The data for this project is sourced from the CarDekho website 🌐 and includes comprehensive details about used cars, influencing their market value. The dataset is structured into training, testing, and validation sets to facilitate a thorough analysis and robust model training.
 
